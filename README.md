@@ -58,3 +58,9 @@ The CSV output contains:
 |--------------|--------------|----------------|------------------------|-------------------------|----------------------|
 | Ramesh Singh | Ramesh@gmail.com | 9999999999    | linkedin.com/in/ramesh | github.com/rameshsingh  | Python, SQL, NumPy   |
 | Anjali Rao   |anjali@gmail.com|9123456789    | linkedin.com/in/anjalirao | github.com/anjalirao  | Data Analysis, Excel |
+
+## 🚀 Live Demo
+
+Try it now: **[Open Demo](https://resume-information-extractor-svo6wf8b8jtj7qdngds9dj.streamlit.app/)**
+
+---
