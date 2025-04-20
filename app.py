@@ -94,7 +94,7 @@ def display_resume_table(resume_data):
                 </tr>
                 <tr>
                     <td><strong>🔗 GitHub</strong></td>
-                    <td><span class='highlight'>{" ".join([f"<span class='highlight'>{links}</span>" for links in resume_data.get('github_link', [])])}/span></td>
+                    <td><span class='highlight'>{" ".join([f"<span class='highlight'>{links}</span>" for links in resume_data.get('github_link', [])])}</span></td>
                 </tr>
                 <tr>
                     <td><strong>💼 LinkedIn</strong></td>
